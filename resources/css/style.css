@@ -9,6 +9,38 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
 .image {
   background-image: url("../../resources/images/the-flatiron-building.png");
+  color: white;
+}
+
+.nav {
+  color: white;
+  font-size: 18px;
+}
+
+.footer {
+  color: white;
+  font-size: 23px;
+  background-color: dimgray;
+  text-align: left;
+}
+
+#new_york {
+  font-size: 23px;
+  font-weight: bold;
 }
